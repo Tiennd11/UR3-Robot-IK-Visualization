@@ -1,0 +1,3 @@
+@echo off
+echo Starting UR3 Robot Controller...
+pythonw "%~dp0stable_mesh_viewer.py"
