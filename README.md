@@ -123,7 +123,6 @@ All dependencies are listed in `requirements.txt` and auto-installed via `instal
 ### Forward Kinematics
 Uses URDF parameters from the official UR3 description:
 - Joint axes: Z, Y, Y, Y, Z, Y
-- Key parameters: d1=0.1519m, a2=0.24365m, a3=0.21325m
 
 ### Inverse Kinematics
 Numerical multi-start solver using damped least squares (Levenberg-Marquardt):
